@@ -35,7 +35,8 @@
 
 <h2>📦 Installation</h2>
 <ol>
-  <li>Clone the repository:<br><code>git clone https://github.com/nehakarnati/gesturecontrolled-mediaplayer.git</li>
+  <li>Clone the repository:<br><code>git clone https://github.com/nehakarnati/gesturecontrolled-mediaplayer
+.git</code></li>
   <li>Install MongoDB Compass (optional but recommended).</li>
   <li>Navigate into the project folder:<br><code>cd gesture-login</code></li>
   <li>Install Node.js dependencies:<br><code>npm install express hbs mongoose</code></li>
