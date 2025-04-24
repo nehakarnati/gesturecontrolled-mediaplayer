@@ -74,5 +74,5 @@
 <hr>
 
 <p align="center">
-  Built with ❤️ by Neha
+  by Neha
 </p>
