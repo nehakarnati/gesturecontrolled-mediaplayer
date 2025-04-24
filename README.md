@@ -11,12 +11,11 @@ This project integrates a Node.js and Express.js backend with MongoDB for user a
 
 4. Responsive UI with Handlebars and custom CSS.​
 
-![img1](https://github.com/user-attachments/assets/fbde6d16-30e3-4a23-b354-f659c8453bce)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fbde6d16-30e3-4a23-b354-f659c8453bce" width="45%" />
+  <img src="https://github.com/user-attachments/assets/2c1aea82-17fb-4244-9987-f4adbefa7774" width="45%" />
+</p>
 
-
-                          
-                          
-![img2](https://github.com/user-attachments/assets/2c1aea82-17fb-4244-9987-f4adbefa7774)
 
 
 
