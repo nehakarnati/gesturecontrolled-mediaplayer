@@ -10,7 +10,10 @@ This project integrates a Node.js and Express.js backend with MongoDB for user a
 3. Gesture-based media controls (play/pause, volume, navigation).
 
 4. Responsive UI with Handlebars and custom CSS.​
-![img1](https://github.com/user-attachments/assets/fbde6d16-30e3-4a23-b354-f659c8453bce)   ![img2](https://github.com/user-attachments/assets/2c1aea82-17fb-4244-9987-f4adbefa7774)
+
+![img1](https://github.com/user-attachments/assets/fbde6d16-30e3-4a23-b354-f659c8453bce)
+
+![img2](https://github.com/user-attachments/assets/2c1aea82-17fb-4244-9987-f4adbefa7774)
 
 
 
