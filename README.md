@@ -30,6 +30,7 @@
 
 <ol>
   <li>Clone the repository:<br><code>git clone https://github.com/yourusername/gesture-login.git</code></li>
+  <li>Install MongoDBCompass<li>
   <li>Navigate into the project folder:<br><code>cd gesture-login</code></li>
   <li>Install Node.js dependencies:<br><code>npm install express hbs mongoose</code></li>
   <li>Install Python dependencies:<br><code>pip install opencv-python mediapipe pyautogui</code></li>
@@ -38,6 +39,7 @@
 
 <h3>▶️ Run the App</h3>
 <ol>
+   <li>Connect to the database using MongoDBCompass<li>
   <li>Start the server:<br><code>nodemon src/index.js</code></li>
   <li>Open your browser at <code>http://localhost:3000</code>.</li>
 </ol>
