@@ -10,6 +10,9 @@ This project integrates a Node.js and Express.js backend with MongoDB for user a
 3. Gesture-based media controls (play/pause, volume, navigation).
 
 4. Responsive UI with Handlebars and custom CSS.​
+![img1](https://github.com/user-attachments/assets/fbde6d16-30e3-4a23-b354-f659c8453bce)   ![img2](https://github.com/user-attachments/assets/2c1aea82-17fb-4244-9987-f4adbefa7774)
+
+
 
 **Technologies Used**
 
@@ -58,22 +61,8 @@ i. npm install express hbs mongoose
 
 **Project Structure**
 
-gesture-login/
-├── public/
-│   ├── images/
-│   ├── home.css
-│   ├── login.css
-│   └── signup.css
-├── src/
-│   ├── index.js
-│   └── mongodb.js
-|   |__gesture.py  
-├── templates/
-│   ├── home.hbs
-│   ├── login.hbs
-│   └── signup.hbs
-├── package.json
-└── README.md
+![img3](https://github.com/user-attachments/assets/955941f4-2171-4efb-a845-eb997ab7d03e)
+
 
 
 **Gesture Controls**
