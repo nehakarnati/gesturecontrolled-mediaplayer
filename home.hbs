@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="/public/home.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="heading">Home</h1>
+        <div class="button-container">
+            <button id="startBtn">Start</button>
+            <button id="stopBtn">Stop</button>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById("startBtn").addEventListener("click", () => {
+            fetch("/start-gesture", { method: "POST" })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error("Failed to start gesture recognition.");
+                    }
+                })
+                .catch(error => {
+                    console.error(error);
+                });
+        });
+
+        document.getElementById("stopBtn").addEventListener("click", () => {
+            fetch("/stop-gesture", { method: "POST" })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error("Failed to stop gesture recognition.");
+                    }
+                })
+                .catch(error => {
+                    console.error(error);
+                });
+        });
+    </script>
+</body>
+</html>
